@@ -24,8 +24,8 @@ Serial to parallel interface for LED matrix control.
 Implements high-level functions to facilitate user interaction:
 Switching between songs and pictures displayed on the TFT screen.
 Response to button presses on the IR Remote controller.
-Setup and Installation:
 
+# Setup and Installation:
 ## Requirements:
 - STM32F401CCU6 development board.
 - Necessary development tools such as STM32CubeIDE, STM32CubeMX, or equivalent.
