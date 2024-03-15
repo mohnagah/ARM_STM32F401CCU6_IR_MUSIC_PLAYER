@@ -1,6 +1,14 @@
 # ARM_STM32F401CCU6_IR_MUSIC_PLAYER
+# Table of Contents
+* [Description](#Description)
+* [Features](#Features)
+* [Requirements](#Requirements)
+* [Configuration](#Configuration)
+* [Building and Flashing](#Building)
+* [Usage](#Usage)
+  
 ## Description:
-This project is an embedded software application for an ARM-based STM32F401CCU6 microcontroller, serving as an IR Music Player. It employs a layered architecture, featuring Microcontroller Abstraction Layer (MCAL), Hardware Abstraction Layer (HAL), and Application Layer.
+This project is an embedded software application for an ARM-based STM32F401CCU6 microcontroller, serving as an IR Music Player. It employs a layered architecture, featuring a Microcontroller Abstraction Layer (MCAL), Hardware Abstraction Layer (HAL), and Application Layer.
 
 ## Features:
 ### 1) MCAL Layer:
@@ -24,7 +32,6 @@ Setup and Installation:
 - DAC, TFT, and LED Matrix connected to appropriate pins of the STM32F401CCU6.
 
 ## Configuration:
-
 Configure the project in STM32CubeMX or equivalent tool, ensuring correct pin mappings and peripheral configurations.
 Import the project into your development environment.
 
