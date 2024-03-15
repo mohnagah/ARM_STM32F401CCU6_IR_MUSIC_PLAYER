@@ -6,6 +6,7 @@
 * [Configuration](#Configuration)
 * [Building and Flashing](#Building)
 * [Usage](#Usage)
+* [Video](#Video)
   
 ## Description:
 This project is an embedded software application for an ARM-based STM32F401CCU6 microcontroller, serving as an IR Music Player. It employs a layered architecture, featuring a Microcontroller Abstraction Layer (MCAL), Hardware Abstraction Layer (HAL), and Application Layer.
@@ -45,6 +46,9 @@ Ensure all peripherals and hardware components are connected properly.
 Use the IR Remote controller to interact with the application:
 Press buttons to navigate through songs and pictures displayed on the TFT.
 Observe the corresponding actions on the display and audio output.
+
+## Video:
+https://drive.google.com/file/d/1GEgOvMwfpbnCpaNWH27sZpKmVnFEz7HN/view?usp=sharing
 
 ## Contributors:
 Mohammed Nagah Amr - Embedded Software Engineer
